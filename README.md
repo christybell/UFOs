@@ -29,7 +29,7 @@ The advanced website looks like this:
 
 	<img src="static/images/Delv 1_filterTable().PNG">
 
-- Below are website screenshots of examples that demonstrate what happens to the table results when you input filter criteria. 
+- Below are website screenshots of examples that demonstrate what happens to the table results when you input search criteria. 
   - for a date of 1/7/2010: 
   
   	<img src="static/images/Delv 1_web filter_date.PNG">
