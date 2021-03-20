@@ -11,7 +11,7 @@ My friend, Dana, is a journalist who is at a point in her career where she has t
 ## Challenge Deliverable and Results
 The advanced website looks like this:
 
-<img src="static/images/Delv 1_UFO website.PNG">
+<img src="static/images/Delv 1_UFO Sightings website.PNG">
 
 - There are now five list elements for filtering in the `index.html` file: date, city, state, country, and shape.
 	<img src="static/images/Delv 1_list elements.PNG">
